@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string-array name="fStudent">
+        <item>移动1711</item>
+        <item>移动1713</item>
+        <item>移动1811</item>
+        <item>移动1813</item>
+        <item>移动1911</item>
+        <item>移动1913</item>
+    </string-array>
+</resources>
